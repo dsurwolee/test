@@ -1,2 +1,2 @@
-###print("merge_conflict")
+###nt("merge_conflict")
 #random_code
